@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;task2/Debug/task2.hex&apos;" deleteContents="false" description="Delete resource &apos;task2/Debug/task2.hex&apos;" element1="/task2/Debug/task2.hex" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1640000831802"/>
+</session>

@@ -1,0 +1,16 @@
+!SESSION 2022-01-09 07:02:28.531 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\assigments\task4\task4\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\assigments\task4\task4\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-01-09 07:03:11.897
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-01-09 07:03:12.080
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\assigments\task4\task4\.metadata\.log4j.xml
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-01-09 07:03:26.972
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$40

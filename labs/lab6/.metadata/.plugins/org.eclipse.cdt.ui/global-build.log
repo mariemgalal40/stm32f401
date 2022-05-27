@@ -1,0 +1,19 @@
+21:47:21 **** Build of configuration Debug for project lab6 ****
+make -j8 all 
+arm-none-eabi-gcc -o "lab6.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\User\Desktop\lab6\lab6\STM32F401CCFX_FLASH.ld" --specs=nosys.specs -Wl,-Map="lab6.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: lab6.elf
+ 
+arm-none-eabi-size   lab6.elf 
+arm-none-eabi-objdump -h -S  lab6.elf  > "lab6.list"
+arm-none-eabi-objcopy  -O ihex  lab6.elf  "lab6.hex"
+arm-none-eabi-objcopy  -O binary  lab6.elf  "lab6.bin"
+   text	   data	    bss	    dec	    hex	filename
+   1988	    112	   1592	   3692	    e6c	lab6.elf
+Finished building: default.size.stdout
+ 
+Finished building: lab6.hex
+Finished building: lab6.bin
+Finished building: lab6.list
+ 
+ 
+ 

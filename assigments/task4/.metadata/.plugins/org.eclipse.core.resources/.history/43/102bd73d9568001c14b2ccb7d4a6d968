@@ -1,0 +1,77 @@
+#include "GPIO.h"
+#include "EXIT.h"
+
+int i,j;
+unsigned char counter=0;
+unsigned char sevenseg[]={0x3f,0x06,0x5b,0x4f,0x66,0x6d,0x7d,0x07,0x7f,0x6f};
+unsigned char y;
+void display (unsigned char);
+
+int main(void) {
+	unsigned char loccounter;
+//	enable clock of poat A
+	GPIO_EnableClock(0);
+//	enable clock of poat A
+	GPIO_EnableClock(1);
+//	enable SYSCFG
+	Timer_EnableClock(14);
+//	external interrupt for pin 0 and 1 in port B
+	*SYSCFG_EXTICR1 |= 0x01<<0 ;
+	*SYSCFG_EXTICR1 |= 0x01<<4 ;
+//	make the pins from 0 to 6 in port A output and pins 0 and 1 input in port B
+	GPIO_Init(1, 0 , INPUT	, PULL_UP);
+	GPIO_Init(1, 1 , INPUT	, PULL_UP);
+	for (i=0;i<7;i++){
+			GPIO_Init(0, i , OUTPUT, PUSH_PULL);
+			}
+	*EXTI_IMR |=  0x01 << 0 ;
+	*EXTI_IMR |=  0x01 << 1 ;
+//  faling interrupt
+	*EXTI_FTSR |= (0x01<<0) ;
+	*EXTI_FTSR |= (0x01<<1) ;
+//	enable the interrupt line 0 and 1 in NVIC
+	*NVIC_ISER = (0x01<<6) ;
+	*NVIC_ISER = (0x01<<7) ;
+//	*EXTI_IMR &= ~(0x0f<<0) ;
+//	*EXTI_IMR &= ~(0x0f<<1) ;
+  while (1) {
+	  Interruptdisable();
+	  loccounter = counter;
+	  Interruptenable();
+	  Display(loccounter);
+	  Interruptdisable();
+
+  }
+  return 0;
+}
+
+void  ISR_Increment()
+	{
+	counter=counter + 1 ;
+	*EXT1_PR |= (1<<0) ;
+	}
+void  ISR_Decrement()
+	{
+	counter=counter - 1 ;
+	*EXT1_PR |= (1<<1) ;
+	}
+void Interruptdisable(){
+//	Disable the Mask on EXTI 0 and 1
+	*EXTI_IMR |=  0x01 << 0 ;
+	*EXTI_IMR |=  0x01 << 1 ;
+}
+void Interruptenable(){
+//	enable the Mask on EXTI 0 and 1
+	*EXTI_IMR &= ~(0x0f<<0) ;
+	*EXTI_IMR &= ~(0x0f<<1) ;
+}
+void Display(unsigned char counter) {
+	for(j=0;j<7;j++){
+		  if((sevenseg[counter] & (1<<j))>>j){
+		     GPIO_WritePin(0, j, 1);
+	           		}
+		  else {
+		  	 GPIO_WritePin(0, j, 0);
+		  	   }
+         			}
+}

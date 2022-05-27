@@ -1,0 +1,72 @@
+!SESSION 2021-11-23 21:24:18.142 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-23 21:24:30.810
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-23 21:24:30.857
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\assigments\task2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-23 21:24:48.516
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-11-23 21:28:10.481
+!MESSAGE Indexed 'task2' (21 sources, 81 headers) in 1.97 sec: 4,248 declarations; 17,695 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
+!SESSION 2021-11-23 21:32:26.923 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  C:\Users\User\Desktop\task2\task2\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\User\Desktop\task2\task2\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-23 21:32:35.349
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-23 21:32:35.396
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\assigments\task2\.metadata\.log4j.xml
+
+!ENTRY org.eclipse.core.jobs 2 2 2021-11-23 21:32:43.905
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$40
+!SESSION 2021-12-20 03:45:25.401 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\assigments\task2\task2\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\assigments\task2\task2\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-20 03:45:51.631
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-20 03:45:51.772
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\assigments\task2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-20 03:46:15.523
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-12-20 03:46:18.090
+!MESSAGE Indexed 'task2' (17 sources, 55 headers) in 2.23 sec: 5,660 declarations; 22,721 references; 2 unresolved inclusions; 41 syntax errors; 145 unresolved names (0.51%)
+!SESSION 2021-12-22 20:00:55.176 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\assigments\task2\task2\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\assigments\task2\task2\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-22 20:01:22.767
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-22 20:01:23.159
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\assigments\task2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-22 20:01:51.842
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-12-22 20:01:56.788
+!MESSAGE Indexed 'task2' (17 sources, 55 headers) in 4.54 sec: 5,660 declarations; 22,721 references; 2 unresolved inclusions; 41 syntax errors; 145 unresolved names (0.51%)

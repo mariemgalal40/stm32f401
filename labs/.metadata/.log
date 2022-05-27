@@ -1,0 +1,2252 @@
+!SESSION 2021-12-09 02:55:55.219 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab5\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab5\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-09 02:56:51.608
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-09 02:56:51.825
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-09 02:57:04.908
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-09 02:57:05.774
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-09 02:57:05.774
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-09 02:57:05.774
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+!SESSION 2021-12-09 02:58:34.735 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab5\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab5\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-09 02:58:45.076
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-09 02:58:45.202
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-09 02:59:02.720
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-09 02:59:02.958
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-09 02:59:02.958
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-09 02:59:02.958
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-12-09 02:59:38.816
+!MESSAGE Indexed 'lab5' (3 sources, 35 headers) in 3.87 sec: 4,006 declarations; 9,925 references; 2 unresolved inclusions; 41 syntax errors; 145 unresolved names (1%)
+!SESSION 2021-12-09 21:29:57.555 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab5\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab5\.cproject
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-12-09 21:30:04.370
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-09 21:30:11.196
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-09 21:30:11.274
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-09 21:30:36.807
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-09 21:30:37.099
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-09 21:30:37.099
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-09 21:30:37.099
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-09 21:41:02.979
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-09 21:41:02.979
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-09 21:41:02.979
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-09 21:41:02.979
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-09 21:42:07.094
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-09 21:42:07.094
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-09 21:42:07.094
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-09 21:42:07.094
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:30:28.868
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:30:28.868
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:30:28.868
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:30:28.869
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:32:20.421
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:32:20.421
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:32:20.421
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:32:20.421
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:32:39.336
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:32:39.337
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:32:39.337
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:32:39.337
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:32:48.911
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:32:48.911
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:32:48.911
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:32:48.911
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:38:31.205
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:38:31.205
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:38:31.206
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:38:31.206
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:41:05.068
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:41:05.068
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:41:05.068
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:41:05.068
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:41:18.635
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:41:18.635
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:41:18.635
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:41:18.635
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:45:20.442
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:45:20.442
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:45:20.442
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:45:20.443
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:47:20.620
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:47:20.620
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:47:20.620
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:47:20.621
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:50:11.994
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:50:11.994
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:50:11.994
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:50:11.995
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 00:51:04.841
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 00:51:04.841
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 00:51:04.841
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 00:51:04.841
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:19:52.864
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:19:52.864
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:19:52.864
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:19:52.865
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.cdt.ui 4 0 2021-12-10 01:19:53.606
+!MESSAGE Error in CDT UI during reconcile
+!STACK 1
+C Model Exception: C Model Status [Element Keypad.c does not exist.]
+	at org.eclipse.cdt.internal.core.model.CElement.newNotPresentException(CElement.java:485)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.makeConsistent(TranslationUnit.java:583)
+	at org.eclipse.cdt.internal.core.model.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:65)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:346)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:613)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:641)
+	at org.eclipse.cdt.internal.core.model.WorkingCopy.reconcile(WorkingCopy.java:365)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.reconcile(CReconcilingStrategy.java:79)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.reconcile(CReconcilingStrategy.java:64)
+	at org.eclipse.cdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:89)
+	at org.eclipse.cdt.internal.ui.text.CCompositeReconcilingStrategy.reconcile(CCompositeReconcilingStrategy.java:90)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.cdt.internal.ui.text.CReconciler.process(CReconciler.java:346)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+!SUBENTRY 1 org.eclipse.cdt.core 4 969 2021-12-10 01:19:53.607
+!MESSAGE Element Keypad.c does not exist.
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:20:21.246
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:20:21.246
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:20:21.246
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:20:21.246
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:20:46.363
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:20:46.363
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:20:46.363
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:20:46.364
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:21:09.112
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:21:09.112
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:21:09.112
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:21:09.112
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:22:07.490
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:22:07.490
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:22:07.490
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:22:07.491
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:27:23.384
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:27:23.384
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:27:23.384
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:27:23.385
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:29:47.163
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:29:47.163
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:29:47.163
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:29:47.164
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:30:04.337
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:30:04.337
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:30:04.337
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:30:04.337
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:34:33.078
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:34:33.078
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:34:33.078
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:34:33.079
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:35:43.434
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:35:43.434
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:35:43.434
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:35:43.434
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:37:33.409
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:37:33.409
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:37:33.409
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:37:33.410
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:38:54.178
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:38:54.178
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:38:54.178
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:38:54.178
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:39:17.428
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:39:17.428
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:39:17.428
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:39:17.429
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:40:54.333
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:40:54.333
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:40:54.333
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:40:54.334
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:47:08.692
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:47:08.692
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:47:08.692
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:47:08.693
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:48:11.724
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:48:11.724
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:48:11.724
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:48:11.724
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:48:34.714
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:48:34.714
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:48:34.714
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:48:34.714
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:48:58.567
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:48:58.567
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:48:58.567
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:48:58.567
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:53:48.557
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:53:48.557
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:53:48.557
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:53:48.558
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:54:52.180
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:54:52.180
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:54:52.180
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:54:52.180
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:55:09.501
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:55:09.501
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:55:09.501
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:55:09.502
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:55:28.825
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:55:28.825
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:55:28.825
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:55:28.827
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 01:55:36.442
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 01:55:36.442
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 01:55:36.442
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 01:55:36.443
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 22:27:25.645
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 22:27:25.646
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 22:27:25.646
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 22:27:25.657
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 22:27:38.534
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 22:27:38.534
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 22:27:38.537
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 22:27:38.537
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 22:28:29.983
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 22:28:29.984
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 22:28:29.984
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 22:28:29.984
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:05:21.742
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:05:21.743
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:05:21.743
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:05:21.743
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:05:30.458
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:05:30.458
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:05:30.458
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:05:30.458
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:05:41.299
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:05:41.299
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:05:41.299
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:05:41.299
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:14:45.221
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:14:45.221
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:14:45.221
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:14:45.221
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:15:21.431
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:15:21.431
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:15:21.431
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:15:21.432
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:15:36.337
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:15:36.337
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:15:36.337
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:15:36.337
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:15:53.455
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:15:53.455
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:15:53.455
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:15:53.455
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:16:52.404
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:16:52.404
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:16:52.404
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:16:52.404
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:18:08.262
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:18:08.262
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:18:08.262
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:18:08.262
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:18:46.894
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:18:46.894
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:18:46.894
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:18:46.894
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:19:00.808
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:19:00.808
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:19:00.808
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:19:00.808
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:20:25.707
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:20:25.708
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:20:25.708
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:20:25.708
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:20:32.917
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:20:32.917
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:20:32.917
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:20:32.917
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:22:35.692
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:22:35.692
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:22:35.692
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:22:35.692
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:23:08.392
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:23:08.392
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:23:08.392
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:23:08.393
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:23:16.930
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:23:16.930
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:23:16.930
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:23:16.930
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:25:31.155
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:25:31.155
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:25:31.155
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:25:31.155
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:26:11.222
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:26:11.222
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:26:11.222
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:26:11.223
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:26:31.225
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:26:31.225
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:26:31.225
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:26:31.225
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:26:41.567
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:26:41.567
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:26:41.567
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:26:41.567
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:26:51.932
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:26:51.932
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:26:51.932
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:26:51.932
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:26:57.732
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:26:57.732
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:26:57.732
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:26:57.733
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:27:01.624
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:27:01.624
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:27:01.624
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:27:01.624
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:27:06.072
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:27:06.072
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:27:06.072
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:27:06.072
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:30:52.524
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:30:52.524
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:30:52.524
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:30:52.525
+!MESSAGE Project is null
+
+!ENTRY com.st.stm32cube.ide.mcu.stackanalyzer 4 0 2021-12-10 23:30:53.380
+!MESSAGE Stackanalyzer failed to analyze input
+!STACK 0
+java.lang.Exception: File: D:\1st\embedded\tasks\labs\lab5\Debug\lab5.elfdo not exists
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:56)
+	at com.st.stm32cube.ide.mcu.utils.assembly.Disassembler.<init>(Disassembler.java:84)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.inputChanged(StackAnalyzerView.java:914)
+	at com.st.stm32cube.ide.mcu.stackanalyzer.ui.StackAnalyzerView.lambda$16(StackAnalyzerView.java:1276)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:31:37.219
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:31:37.219
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:31:37.219
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:31:37.220
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:32:16.740
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:32:16.740
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:32:16.740
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:32:16.740
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:32:42.395
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:32:42.395
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:32:42.395
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:32:42.395
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:33:05.819
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:33:05.819
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:33:05.819
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:33:05.820
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:34:13.590
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:34:13.591
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:34:13.591
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:34:13.591
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:48:28.449
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:48:28.449
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:48:28.449
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:48:28.449
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-10 23:59:00.068
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-10 23:59:00.068
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-10 23:59:00.068
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-10 23:59:00.068
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:03:40.723
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:03:40.723
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:03:40.723
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:03:40.723
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:05:03.023
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:05:03.023
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:05:03.023
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:05:03.024
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:05:37.161
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:05:37.161
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:05:37.161
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:05:37.163
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:08:20.353
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:08:20.353
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:08:20.353
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:08:20.354
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:08:23.656
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:08:23.656
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:08:23.656
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:08:23.656
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:08:45.006
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:08:45.006
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:08:45.006
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:08:45.006
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:19:56.904
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:19:56.904
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:19:56.904
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:19:56.904
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:20:39.227
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:20:39.227
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:20:39.227
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:20:39.227
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:21:49.870
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:21:49.870
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:21:49.870
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:21:49.871
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:21:53.195
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:21:53.195
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:21:53.195
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:21:53.195
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:22:45.560
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:22:45.560
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:22:45.560
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:22:45.561
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:23:22.356
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:23:22.356
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:23:22.356
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:23:22.357
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:26:53.847
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:26:53.847
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:26:53.847
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:26:53.847
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:30:39.262
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:30:39.262
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:30:39.262
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:30:39.263
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:31:18.066
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:31:18.066
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:31:18.066
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:31:18.067
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:31:55.530
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:31:55.530
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:31:55.530
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:31:55.530
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:32:35.992
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:32:35.992
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:32:35.992
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:32:35.993
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:32:50.788
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:32:50.788
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:32:50.788
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:32:50.789
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:42:06.923
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:42:06.923
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:42:06.923
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:42:06.924
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 00:46:26.305
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 00:46:26.305
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 00:46:26.305
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 00:46:26.305
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 01:10:19.177
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 01:10:19.177
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 01:10:19.177
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 01:10:19.177
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 01:23:25.191
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 01:23:25.191
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 01:23:25.191
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 01:23:25.196
+!MESSAGE Project is null
+!SESSION 2021-12-11 06:15:51.786 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab5\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab5\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-11 06:16:19.127
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-11 06:16:19.511
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-11 06:16:48.433
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:16:48.760
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:16:48.760
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:16:48.760
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:17:34.684
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:17:34.684
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:17:34.684
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:17:34.684
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:18:38.831
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:18:38.831
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:18:38.831
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:18:38.838
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:19:53.676
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:19:53.676
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:19:53.676
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:19:53.677
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:21:02.662
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:21:02.663
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:21:02.663
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:21:02.663
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:39:04.387
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:39:04.387
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:39:04.387
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:39:04.388
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:40:59.959
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:40:59.959
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:40:59.959
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:40:59.959
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:43:29.810
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:43:29.810
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:43:29.810
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:43:29.810
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:43:34.078
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:43:34.078
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:43:34.078
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:43:34.079
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:43:39.817
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:43:39.817
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:43:39.817
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:43:39.817
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 06:46:11.033
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 06:46:11.033
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 06:46:11.033
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-11 06:46:11.033
+!MESSAGE Project is null
+!SESSION 2021-12-11 07:31:12.474 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab5\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab5\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-11 07:31:36.059
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-11 07:31:36.102
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-11 07:31:56.805
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 07:31:56.942
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 07:31:56.942
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 07:31:56.942
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-12-11 08:00:20.171
+!MESSAGE Indexed 'Lab5_Keypad' (4 sources, 34 headers) in 1.41 sec: 4,022 declarations; 8,414 references; 5 unresolved inclusions; 265 syntax errors; 1,413 unresolved names (10%)
+!SESSION 2021-12-11 08:43:45.777 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab5\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab5\.cproject
+
+!ENTRY org.eclipse.core.resources 4 567 2021-12-11 08:44:02.644
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2021-12-11 08:44:02.644
+!MESSAGE Could not read metadata for 'Lab5_Keypad'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/Lab5_Keypad)[567]: java.lang.Exception: The project description file (.project) for 'Lab5_Keypad' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2452)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2210)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:489)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:814)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:806)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:763)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1012)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:366)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:506)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:346)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:401)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:476)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:171)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2021-12-11 08:44:02.645
+!MESSAGE The project description file (.project) for 'Lab5_Keypad' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for 'Lab5_Keypad' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:908)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:888)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:868)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:724)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1555)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2452)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2210)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:489)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:814)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:806)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:763)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1012)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:366)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:506)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:572)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:346)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:401)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:476)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:171)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-11 08:44:05.522
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-11 08:44:05.567
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-11 08:44:26.006
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 368 2021-12-11 08:44:30.499
+!MESSAGE Resource '/Lab5_Keypad' does not exist.
+!STACK 0
+java.lang.Exception: Resource '/Lab5_Keypad' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1020)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1112)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporter$ProjectOperation.execute(MCUProjectImporter.java:170)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:110)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-11 08:44:30.605
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-11 08:44:30.605
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-11 08:44:30.605
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+!SESSION 2021-12-17 05:56:01.312 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-17 05:56:27.587
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-17 05:56:27.856
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-17 05:56:56.717
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.ui 4 4 2021-12-17 06:00:45.981
+!MESSAGE Unable to create part
+!STACK 1
+org.eclipse.ui.PartInitException: Cannot determine URI for '/Lab5_Keypad/Core/Src/GPIO.c'.
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3203)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3214)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:353)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:344)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:999)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:964)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:405)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:332)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:999)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:104)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4742)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.lambda$4(StackRenderer.java:975)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3243)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1881)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:330)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+Caused by: org.eclipse.core.runtime.CoreException: Cannot determine URI for '/Lab5_Keypad/Core/Src/GPIO.c'.
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:239)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:115)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:563)
+	at org.eclipse.cdt.internal.ui.editor.CDocumentProvider.createFileInfo(CDocumentProvider.java:792)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:481)
+	at org.eclipse.cdt.internal.ui.editor.CDocumentProvider.connect(CDocumentProvider.java:724)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4182)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1479)
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:153)
+	at org.eclipse.cdt.internal.ui.editor.CEditor.internalDoSetInput(CEditor.java:1445)
+	at org.eclipse.cdt.internal.ui.editor.CEditor.doSetInput(CEditor.java:1409)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.lambda$1(AbstractTextEditor.java:3172)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2345)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2343)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3189)
+	... 82 more
+!SUBENTRY 1 org.eclipse.core.filebuffers 4 0 2021-12-17 06:00:45.981
+!MESSAGE Cannot determine URI for '/Lab5_Keypad/Core/Src/GPIO.c'.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot determine URI for '/Lab5_Keypad/Core/Src/GPIO.c'.
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:239)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:115)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:563)
+	at org.eclipse.cdt.internal.ui.editor.CDocumentProvider.createFileInfo(CDocumentProvider.java:792)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:481)
+	at org.eclipse.cdt.internal.ui.editor.CDocumentProvider.connect(CDocumentProvider.java:724)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4182)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:262)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1479)
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:153)
+	at org.eclipse.cdt.internal.ui.editor.CEditor.internalDoSetInput(CEditor.java:1445)
+	at org.eclipse.cdt.internal.ui.editor.CEditor.doSetInput(CEditor.java:1409)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.lambda$1(AbstractTextEditor.java:3172)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2345)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2343)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3189)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3214)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:353)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:344)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:999)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:964)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:405)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:332)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:999)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:765)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:730)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:714)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:104)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4742)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.lambda$4(StackRenderer.java:975)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3243)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1881)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:330)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+!SUBENTRY 2 org.eclipse.core.filebuffers 4 0 2021-12-17 06:00:45.989
+!MESSAGE Cannot determine URI for '/Lab5_Keypad/Core/Src/GPIO.c'.
+!SESSION 2021-12-17 06:05:11.149 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab6\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab6\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-17 06:05:21.482
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-17 06:05:21.653
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-17 06:05:44.856
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 06:05:45.391
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 06:05:45.391
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 06:05:45.391
+!MESSAGE D:\1st\embedded\tasks\labs\lab6 overlaps the location of another project: 'lab6'
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 07:06:11.015
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 07:06:11.015
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 07:06:11.015
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 07:06:11.016
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 07:07:15.833
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 07:07:15.833
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 07:07:15.833
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 07:07:15.834
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 07:09:03.904
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 07:09:03.904
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 07:09:03.904
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 07:09:03.905
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:35:00.015
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:35:00.015
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:35:00.015
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:35:00.036
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:35:51.576
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:35:51.576
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:35:51.576
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:35:51.577
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:39:44.583
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:39:44.583
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:39:44.583
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:39:44.586
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:39:55.627
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:39:55.628
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:39:55.628
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:39:55.628
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:48:55.262
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:48:55.262
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:48:55.262
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:48:55.263
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:49:28.023
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:49:28.023
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:49:28.023
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:49:28.027
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:50:34.429
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:50:34.429
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:50:34.429
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:50:34.430
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:54:57.472
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:54:57.472
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:54:57.472
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:54:57.473
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:57:37.279
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:57:37.279
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:57:37.279
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:57:37.280
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:57:45.172
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:57:45.172
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:57:45.172
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:57:45.172
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:59:33.450
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:59:33.450
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:59:33.450
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:59:33.450
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 20:59:58.932
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 20:59:58.932
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 20:59:58.932
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 20:59:58.932
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 21:02:19.903
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 21:02:19.903
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 21:02:19.903
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 21:02:19.903
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 21:03:03.773
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 21:03:03.773
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 21:03:03.773
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 21:03:03.774
+!MESSAGE Project is null
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 21:03:24.120
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 21:03:24.123
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 21:03:24.123
+!MESSAGE D:\1st\embedded\tasks\labs\lab5 overlaps the location of another project: 'lab5'
+
+!ENTRY com.st.stm32cube.common.projectcreation 4 0 2021-12-17 21:03:24.123
+!MESSAGE Project is null
+!SESSION 2021-12-17 21:05:53.235 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab6\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab6\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-17 21:06:16.012
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-17 21:06:16.272
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-17 21:06:43.784
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 21:06:44.402
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 21:06:44.402
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 21:06:44.402
+!MESSAGE D:\1st\embedded\tasks\labs\lab6 overlaps the location of another project: 'lab6'
+
+!ENTRY org.eclipse.core.resources 4 77 2021-12-17 21:07:46.011
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2021-12-17 21:07:46.011
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2021-12-17 21:07:46.011
+!MESSAGE D:\1st\embedded\tasks\labs\lab6 overlaps the location of another project: 'lab6'
+!SESSION 2021-12-17 21:18:40.958 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-17 21:19:10.497
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-17 21:19:10.580
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY org.eclipse.core.jobs 2 2 2021-12-17 21:19:28.846
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$40
+!SESSION 2021-12-24 23:58:29.756 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-25 00:03:49.605
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-25 00:03:49.868
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-25 00:04:43.147
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.common.mx 4 0 2021-12-25 00:06:31.499
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter$5.run(TargetSelectorAdapter.java:276)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:468)
+	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.launchMCUFinder(TargetSelectorAdapter.java:243)
+	at com.st.stm32cube.common.mx.targetselector.TargetSelectorAdapter.addTargetSelector(TargetSelectorAdapter.java:149)
+	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:127)
+	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+	at org.eclipse.ui.internal.actions.NewWizardShortcutAction.run(NewWizardShortcutAction.java:119)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.ui 4 0 2021-12-25 00:06:31.505
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at com.st.stm32cube.common.projectcreation.ui.wizard.TargetSetupPageAbstract.createControl(TargetSetupPageAbstract.java:131)
+	at org.eclipse.jface.wizard.Wizard.createPageControls(Wizard.java:178)
+	at org.eclipse.jface.wizard.WizardDialog.createPageControls(WizardDialog.java:743)
+	at org.eclipse.jface.wizard.WizardDialog.createContents(WizardDialog.java:635)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+	at org.eclipse.ui.internal.actions.NewWizardShortcutAction.run(NewWizardShortcutAction.java:119)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4026)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3626)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-12-25 00:06:33.395
+!MESSAGE Indexed 'lab7' (21 sources, 81 headers) in 4.37 sec: 4,248 declarations; 17,695 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
+!SESSION 2021-12-25 00:09:22.214 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab7\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab7\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-25 00:09:33.054
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-25 00:09:33.164
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-25 00:09:56.713
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 4 0 2021-12-25 00:09:56.887
+!MESSAGE Error rebuilding index: lab7
+!STACK 1
+C Model Exception: C Model Status [Element Inc does not exist.]
+	at org.eclipse.cdt.internal.core.model.CElement.newNotPresentException(CElement.java:485)
+	at org.eclipse.cdt.internal.core.model.CContainer.buildStructure(CContainer.java:159)
+	at org.eclipse.cdt.internal.core.model.Openable.generateInfos(Openable.java:264)
+	at org.eclipse.cdt.internal.core.model.CElement.openWhenClosed(CElement.java:428)
+	at org.eclipse.cdt.internal.core.model.CElement.getElementInfo(CElement.java:306)
+	at org.eclipse.cdt.internal.core.model.CElement.getElementInfo(CElement.java:296)
+	at org.eclipse.cdt.internal.core.model.Parent.getChildren(Parent.java:57)
+	at org.eclipse.cdt.internal.core.model.CElement.accept(CElement.java:525)
+	at org.eclipse.cdt.internal.core.model.CElement.accept(CElement.java:527)
+	at org.eclipse.cdt.internal.core.model.CElement.accept(CElement.java:527)
+	at org.eclipse.cdt.internal.core.model.CElement.accept(CElement.java:527)
+	at org.eclipse.cdt.internal.core.pdom.indexer.PDOMRebuildTask.createDelegate(PDOMRebuildTask.java:122)
+	at org.eclipse.cdt.internal.core.pdom.indexer.PDOMRebuildTask.run(PDOMRebuildTask.java:82)
+	at org.eclipse.cdt.internal.core.pdom.PDOMIndexerJob.run(PDOMIndexerJob.java:160)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.core 4 969 2021-12-25 00:09:56.888
+!MESSAGE Element Inc does not exist.
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-12-25 00:11:35.338
+!MESSAGE Indexed 'lab6' (4 sources, 19 headers) in 1.06 sec: 1,227 declarations; 2,823 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2021-12-25 03:49:42.480 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab7\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab7\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-25 03:50:07.724
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-25 03:50:07.849
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-12-25 03:50:19.653
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-12-25 03:50:23.703
+!MESSAGE Indexed 'lab7' (18 sources, 54 headers) in 3.99 sec: 5,150 declarations; 12,179 references; 3 unresolved inclusions; 56 syntax errors; 201 unresolved names (1.1%)
+
+!ENTRY org.eclipse.core.resources 4 2 2021-12-25 03:58:46.830
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src)[368]: java.lang.Exception: Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:244)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:231)
+	at com.st.stm32cube.ide.mcu.toolchain.armnone.oss.makefile.MakefileGenerator.generateDependencies(MakefileGenerator.java:616)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPostbuildGeneration(CommonBuilder.java:854)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:766)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:515)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:461)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:412)
+	at org.eclipse.ui.actions.BuildAction$1.runInWorkspace(BuildAction.java:291)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2021-12-25 03:58:46.830
+!MESSAGE Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+!STACK 0
+java.lang.Exception: Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:244)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:231)
+	at com.st.stm32cube.ide.mcu.toolchain.armnone.oss.makefile.MakefileGenerator.generateDependencies(MakefileGenerator.java:616)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPostbuildGeneration(CommonBuilder.java:854)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:766)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:515)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:461)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:412)
+	at org.eclipse.ui.actions.BuildAction$1.runInWorkspace(BuildAction.java:291)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2021-12-25 03:58:46.830
+!MESSAGE Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+!STACK 0
+java.lang.Exception: Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:244)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:231)
+	at com.st.stm32cube.ide.mcu.toolchain.armnone.oss.makefile.MakefileGenerator.generateDependencies(MakefileGenerator.java:616)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPostbuildGeneration(CommonBuilder.java:854)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:766)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:515)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:461)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:412)
+	at org.eclipse.ui.actions.BuildAction$1.runInWorkspace(BuildAction.java:291)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 75 2021-12-25 03:58:47.146
+!MESSAGE Errors occurred during the build.
+!SUBENTRY 1 org.eclipse.cdt.managedbuilder.core 4 75 2021-12-25 03:58:47.146
+!MESSAGE Errors running builder 'CDT Builder' on project 'lab7'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src)[368]: java.lang.Exception: Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:244)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:231)
+	at com.st.stm32cube.ide.mcu.toolchain.armnone.oss.makefile.MakefileGenerator.generateDependencies(MakefileGenerator.java:616)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPostbuildGeneration(CommonBuilder.java:854)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:766)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:515)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:461)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:412)
+	at org.eclipse.ui.actions.BuildAction$1.runInWorkspace(BuildAction.java:291)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.core.resources 4 368 2021-12-25 03:58:47.146
+!MESSAGE Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+!STACK 0
+java.lang.Exception: Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:244)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:231)
+	at com.st.stm32cube.ide.mcu.toolchain.armnone.oss.makefile.MakefileGenerator.generateDependencies(MakefileGenerator.java:616)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPostbuildGeneration(CommonBuilder.java:854)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:766)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:515)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:461)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:412)
+	at org.eclipse.ui.actions.BuildAction$1.runInWorkspace(BuildAction.java:291)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2021-12-25 03:58:47.146
+!MESSAGE Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+!STACK 0
+java.lang.Exception: Resource '/lab7/Debug/Drivers/STM32F4xx_HAL_Driver/Src' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:244)
+	at org.eclipse.core.internal.resources.Container.members(Container.java:231)
+	at com.st.stm32cube.ide.mcu.toolchain.armnone.oss.makefile.MakefileGenerator.generateDependencies(MakefileGenerator.java:616)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.performPostbuildGeneration(CommonBuilder.java:854)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:766)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:515)
+	at org.eclipse.cdt.managedbuilder.internal.core.CommonBuilder.build(CommonBuilder.java:461)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:515)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:412)
+	at org.eclipse.ui.actions.BuildAction$1.runInWorkspace(BuildAction.java:291)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug.launch 2 0 2021-12-25 04:00:01.669
+!MESSAGE Won't launch debug session since we failed to locate the binary.
+
+!ENTRY org.eclipse.cdt.ui 4 0 2021-12-25 04:36:50.570
+!MESSAGE Error in CDT UI during reconcile
+!STACK 1
+C Model Exception: C Model Status [Element GPIO.h does not exist.]
+	at org.eclipse.cdt.internal.core.model.CElement.newNotPresentException(CElement.java:485)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.makeConsistent(TranslationUnit.java:583)
+	at org.eclipse.cdt.internal.core.model.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:65)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:346)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:613)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:641)
+	at org.eclipse.cdt.internal.core.model.WorkingCopy.reconcile(WorkingCopy.java:365)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.reconcile(CReconcilingStrategy.java:79)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.reconcile(CReconcilingStrategy.java:64)
+	at org.eclipse.cdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:89)
+	at org.eclipse.cdt.internal.ui.text.CCompositeReconcilingStrategy.reconcile(CCompositeReconcilingStrategy.java:90)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.cdt.internal.ui.text.CReconciler.process(CReconciler.java:346)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+!SUBENTRY 1 org.eclipse.cdt.core 4 969 2021-12-25 04:36:50.571
+!MESSAGE Element GPIO.h does not exist.
+
+!ENTRY org.eclipse.ui 4 0 2021-12-25 04:47:53.159
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalArgumentException: Index out of bounds
+	at org.eclipse.swt.SWT.error(SWT.java:4870)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.SWT.error(SWT.java:4775)
+	at org.eclipse.swt.custom.StyledText.getRanges(StyledText.java:4733)
+	at org.eclipse.swt.custom.StyledText.setStyleRanges(StyledText.java:10231)
+	at org.eclipse.swt.custom.StyledText.setStyleRange(StyledText.java:10133)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AnnotationExpansionControl.resetViewerBackground(AnnotationExpansionControl.java:892)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AnnotationExpansionControl$Item.deselect(AnnotationExpansionControl.java:164)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AnnotationExpansionControl$MyDisposeListener.widgetDisposed(AnnotationExpansionControl.java:186)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:127)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1048)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:800)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:921)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:803)
+	at org.eclipse.swt.widgets.Composite.releaseChildren(Composite.java:921)
+	at org.eclipse.swt.widgets.Canvas.releaseChildren(Canvas.java:168)
+	at org.eclipse.swt.widgets.Decorations.releaseChildren(Decorations.java:713)
+	at org.eclipse.swt.widgets.Shell.releaseChildren(Shell.java:1356)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:803)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:416)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:392)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AnnotationExpansionControl.dispose(AnnotationExpansionControl.java:692)
+	at org.eclipse.cdt.internal.ui.text.c.hover.AnnotationExpansionControl$1.viewportChanged(AnnotationExpansionControl.java:491)
+	at org.eclipse.jface.text.TextViewer.updateViewportListeners(TextViewer.java:2987)
+	at org.eclipse.jface.text.TextViewer$ViewportGuard.keyReleased(TextViewer.java:288)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:178)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmKeyUp(Widget.java:1835)
+	at org.eclipse.swt.widgets.Control.WM_KEYUP(Control.java:5173)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4793)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4938)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(Native Method)
+	at org.eclipse.swt.internal.BidiUtil.windowProc(BidiUtil.java:648)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+!SESSION 2021-12-25 06:07:08.451 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  D:\1st\embedded\tasks\labs\lab7\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\1st\embedded\tasks\labs\lab7\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-12-25 06:07:26.727
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-12-25 06:07:26.774
+!MESSAGE Log4j initialized with config file D:\1st\embedded\tasks\labs\.metadata\.log4j.xml
+
+!ENTRY org.eclipse.core.jobs 2 2 2021-12-25 06:07:42.224
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$40

@@ -1,0 +1,24 @@
+10:35:20 **** Incremental Build of configuration Debug for project lab8 ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/USART.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32F401xC -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/USART.d" -MT"Core/Src/USART.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/USART.o"
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32F401xC -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "lab8.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\1st\embedded\tasks\labs\lab8\lab8\STM32F401CCUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="lab8.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: lab8.elf
+ 
+arm-none-eabi-size   lab8.elf 
+arm-none-eabi-objdump -h -S  lab8.elf  > "lab8.list"
+arm-none-eabi-objcopy  -O ihex  lab8.elf  "lab8.hex"
+arm-none-eabi-objcopy  -O binary  lab8.elf  "lab8.bin"
+   text	   data	    bss	    dec	    hex	filename
+   1364	     88	   1568	   3020	    bcc	lab8.elf
+Finished building: default.size.stdout
+ 
+Finished building: lab8.hex
+Finished building: lab8.bin
+Finished building: lab8.list
+ 
+ 
+ 
+
+10:35:22 Build Finished. 0 errors, 0 warnings. (took 1s.350ms)
+

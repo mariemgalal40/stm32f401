@@ -1,0 +1,23 @@
+07:26:30 **** Incremental Build of configuration Debug for project task4 ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32F401xC -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "task4.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\1st\embedded\tasks\assigments\task4\task4\STM32F401CCFX_FLASH.ld" --specs=nosys.specs -Wl,-Map="task4.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: task4.elf
+ 
+arm-none-eabi-size   task4.elf 
+arm-none-eabi-objdump -h -S  task4.elf  > "task4.list"
+arm-none-eabi-objcopy  -O ihex  task4.elf  "task4.hex"
+arm-none-eabi-objcopy  -O binary  task4.elf  "task4.bin"
+   text	   data	    bss	    dec	    hex	filename
+   1932	    100	   1580	   3612	    e1c	task4.elf
+Finished building: default.size.stdout
+ 
+Finished building: task4.bin
+Finished building: task4.hex
+Finished building: task4.list
+ 
+ 
+ 
+
+07:26:31 Build Finished. 0 errors, 0 warnings. (took 1s.316ms)
+

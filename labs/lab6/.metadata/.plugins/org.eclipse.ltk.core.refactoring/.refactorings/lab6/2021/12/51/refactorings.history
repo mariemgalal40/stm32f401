@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;lab6/Core/Inc/Keypad&apos; to &apos;Keypad.h&apos;" description="Rename resource &apos;Keypad&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/Keypad" name="Keypad.h" stamp="1639805134603" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;lab6/Core/Inc/stm32f401cc_interface&apos; to &apos;stm32f401cc_interface.h&apos;" description="Rename resource &apos;stm32f401cc_interface&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/stm32f401cc_interface" name="stm32f401cc_interface.h" stamp="1639805144521" updateReferences="true"/>
+</session>

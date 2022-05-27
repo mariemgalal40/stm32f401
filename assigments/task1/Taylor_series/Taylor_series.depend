@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637174590 source:d:\1st\embedded\tasks\assigments\task1\taylor_series\main.c
+	<stdio.h>
+	<stdlib.h>
+

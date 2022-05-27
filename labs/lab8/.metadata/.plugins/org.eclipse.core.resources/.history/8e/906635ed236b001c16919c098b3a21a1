@@ -1,0 +1,18 @@
+#include "USART.h"
+
+
+void USART_EnableClock(unsigned char bit_no) {
+
+      *RCC_APB1ENR |= (0x01 << bit_no);
+}
+
+void display(char str)
+{
+
+        while (((USART_SR >> 6) & 1))
+        {
+            USART_DR = str;
+            str++;
+        }
+
+}
