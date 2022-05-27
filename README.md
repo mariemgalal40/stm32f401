@@ -1,6 +1,4 @@
-## stm32f401
-
-<h1 style="text-align: center;"> Computer Vision Course Tasks</h1>
+<h1 style="text-align: center;"> stm32f401 task</h1>
 
 In this Repository i present a variety of embedded tasks implemented using `C`.
 
